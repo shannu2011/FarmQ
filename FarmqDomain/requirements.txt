@@ -7,4 +7,5 @@ python-dotenv
 sentence-transformers
 torch
 numpy
+SpeechRecognition
 scikit-learn
