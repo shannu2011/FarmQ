@@ -1,0 +1,10 @@
+pandas
+streamlit
+deep-translator
+serpapi
+boto3
+python-dotenv
+sentence-tranformers
+torch
+numpy
+scikit-learn
