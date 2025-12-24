@@ -4,7 +4,8 @@ deep-translator
 serpapi
 boto3
 python-dotenv
-sentence-tranformers
+sentence-transformers
 torch
 numpy
+
 scikit-learn
