@@ -10,3 +10,4 @@ numpy
 SpeechRecognition
 scikit-learn
 gTTS
+pyaudio
