@@ -2,7 +2,6 @@ pandas
 streamlit
 deep-translator
 google-search-results
-boto3
 python-dotenv
 sentence-transformers
 torch
@@ -10,4 +9,4 @@ numpy
 SpeechRecognition
 scikit-learn
 gTTS
-pyaudio
+base64
